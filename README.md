@@ -1,0 +1,2 @@
+Twitter is a important and widely used communication medium these days, in case of disasters as well, people log all the events that are happening in real time on twitter, so, it is easier to understand the ground situation in disaster prone areas using these tweets. that's why disaster relief agencies and organizations are interested in programmatically monitoring these kinds of tweets so that they can plan their relief activities accordingly.
+But it's not always clear weather the person is describing an disaster or just using some disaster related words metaphorically.
